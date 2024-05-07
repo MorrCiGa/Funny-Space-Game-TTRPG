@@ -1,7 +1,13 @@
-Un'Eyay: 
-Furzun: 
-Hukkan: 
-Tor'Mari: 
-Gar'Tan'uish: 
-Bor: 
-Tar'Hatos:
+Humans:
+	Terrans: 
+		Have a strong sense of identity with the UAW, due to their planetary living they have a strong tie between identity and 		location. Terrans are know the be hot headed and not shy with their words and actions, some might even call them brash at 		times.
+	Spacers: 
+		Spending their lives on space stations and city ships spacers tend to have been prone to wander lust, they have a strong 		tie to their home star system, being know to feel discomfort when the stars are not what they know.
+
+Elves (Veli):
+	Volnir (high elves):
+		A culture defined by its logical nature, the Volnir are sometimes seen as aloof or snobbish due to their adherence to the 		Volnith path. The Volnir where the first otherworldly being the Terrans encountered, when the second FTL prob 				past, Kamehameha, past into the void.
+	Horrgi (wood elves):
+		The diaspora that took the Volnir to their homework Pyronist was not so kind to the Horrgi, who had to find other ways to 		survive. They master the art of gene crafting, creating massive biological ships that have taken them far and wide. They, 		like the spacers, have a wander lust in them.
+	Somuk (dark elves):
+		The sister world to Pyronist, Remus, is where the Somuk found themselves. Unlike their brothers they do not follow the path 		of Vonir, but the older traditions, the remnants of when their lost empire stretched from arm to arm of this galaxy. They 		are a stubborn bunch, willing to do what is needed to achieve their goals, whether that be personal sacrifice or the 		sacrifice of others.
