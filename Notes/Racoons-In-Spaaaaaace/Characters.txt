@@ -1,0 +1,12 @@
+Sonic:
+	Player: Tristan
+	Very fast very impulsive, the child of the buntch
+Pirate:
+	Player: Quinlan
+	Likes to get into places they should not be, the muscle of the buntch
+Mother:
+	Player: Ashka
+	The mother, making sure all the plans go as ... well planed and all that
+ENGIN:
+	Player: Rishi
+	ENGIN make engin go, the profit of the green
