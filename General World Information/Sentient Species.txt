@@ -1,0 +1,123 @@
+formate:
+	species:
+		ethnic group
+			homeworld
+
+			etc
+
+
+Humanoids: The diaspora of the Kuminids
+	Humans:
+		Home world: Mundus
+		Home system: Sol
+
+		Gravs: Run of the mill human
+			Have a strong sense of identity with the UAW, due to their planetary living they have a strong tie between identity and 		
+			location. Terrans are know the be hot headed and not shy with their words and actions, some might even call them brash at 		
+			times.
+
+		Spacers: Tend to be thin and tall, tend to have a darker complexion 
+			Spending their lives on space stations and city ships spacers tend to have been prone to wander lust, they have a strong 		
+			tie to their home star system, being know to feel discomfort when the stars are not what they know.
+
+	Elves:
+		Volnir: Tend to stand around 6ft in height with slighter build than humans pointed ears and thinner facial structure.
+			Home world: Pyronist
+			Home system: Eridanus
+
+			Background:
+				A culture defined by its logical nature, the Volnir are sometimes seen as aloof or snobbish due to their adherence to the
+ 				Volnith path. The Volnir where the first otherworldly being the Humans encountered, when the second FTL prob
+ 				past, Kamehameha, past into the void.
+
+		Horrgi: Tend to stand around 6'7ft tall, are taller than their sister species, have eyes which range from yellow to light brown, and wispy hair, they have thin facial features.
+			Home world: N/A
+			Home system: N/A
+
+			Background:
+				The diaspora that took the Volnir to their homework Pyronist was not so kind to the Horrgi, who had to find other ways to
+ 				survive. They master the art of gene crafting, creating massive biological ships that have taken them far and wide. They,
+ 				like the spacers, have a wander lust in them.	
+
+		Somuk: Tend to stand around 5'10ft tall, shorter than their sister species. They tend to have brown or green eyes, and their facial features tend to be thin, with the exception of their brow line which is thicker than that of a human.
+			Home world: Remus
+			Home system: Eridanus
+
+			Backgrounds:
+				The sister world to Pyronist, Remus, is where the Somuk found themselves. Unlike their brothers they do not follow the path
+ 				of Vonir, but the older traditions, the remnants of before the detonation. They
+ 				are a stubborn bunch, willing to do what is needed to achieve their goals, whether that be personal sacrifice or the
+ 				sacrifice of others.	
+
+	Gnomes:
+		Kenkbees:
+
+		Whomor:
+
+		Bransk:
+
+	Dwarves:
+		Khayerzek:
+
+		Zetrakuz:
+
+		Bukhaz:
+
+	Halflings:
+		Flafum:
+
+		Hadgigard:
+	
+
+Orcoids: The diaspora of the Kashinites
+	Orcs:
+		Hurtzen:
+
+		Portok:
+
+		Kurtzeg:
+
+	Trolls:
+		Gif:
+
+		Gof:
+
+	Giants:
+		Unterforz:
+
+		Aftnord:
+	
+	Ogre:
+		Egerthun:
+
+		Jurgenbov:
+
+		Hemfurt:
+
+Goblinoids: The diaspora of the Bur'Throminids
+	Goblins:
+		Furzun:
+
+		Hukkan: 
+
+	Hobgoblins:
+		Un'Eyay: 
+
+		Tor'Mari: 
+
+		Gar'Tan'uish: 
+
+		Tar'Hatos:
+	Bugbears:
+		Bor: 
+
+	Browny/FayFolk:
+
+Draconoids: The diaspora of the Ophidinites
+	Kobolds:
+
+	Dragon Kin:
+
+	Reptilians:
+
+	Wyrmlings:
