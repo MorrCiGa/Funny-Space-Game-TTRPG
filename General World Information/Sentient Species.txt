@@ -72,10 +72,25 @@ Humanoids: The diaspora of the Kuminids
 Orcoids: The diaspora of the Kashinites
 	Orcs:
 		Uru'kar:
+			Home world: Kar
+			Home system: Ur
+
+			Background:
+				The mountin folk of Kar, they tend to have longer thicker hair than the hen, but be of a shorter height. Legend has it that they are all desended of the great concurer Uru
 
 		Uri'hen:
+			Home world: Kar
+			Home system: Ur
 
-		Nur'eki:
+			Background:
+				The planes folk of Har, they tend to be taller and have less hair over all.  Legend has it that thy came from the earth serpent Uri.
+
+		Uri'Mohg:
+			Home world: Mohg
+			Home system: Ur
+	
+			Background:
+				Living on the moon of Kar, they tend to be of slighter builds than theri kar bretherin. No one knows how they got their but it is said that when the concurer Uru slew the serpent Uri, its teeth landed on the moon and the Uri'Mohg came from those teeth
 
 	Trolls:
 		Gif:
