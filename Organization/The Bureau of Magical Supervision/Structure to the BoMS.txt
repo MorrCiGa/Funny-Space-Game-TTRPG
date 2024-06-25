@@ -1,0 +1,12 @@
+Inner Chairs: The five people who are the final arbiters of the Bureaus actions and policies
+	Current Chairs: Burt Winslow (Kobold), Kryukz Thorgsban(Orc), Isolde Dregstoke (Dwarf), Harmon Ivanov (Human), Helyth Nemanyia (Elf) 
+
+Middle Chairs: the 45 people who are assistants to the inner Chairs, each inner chair has 9 middle chairs, and each middle chair must be from a "sufficiently" different background to the inner chair they work with
+
+Outer Chairs: The 405 people who are assistants to the middle chairs, each middle chair has 9 outer chairs, and each outer chair must be elected by the Counsel Arcanum
+
+Gray Listed Nations: The Nations that may sit in on Counsel Arcanum meetings, but may not formally vote, basically members to be 
+
+Black Listed Nations: The Nations that may not sit in on the Counsel Arcanum meetings because they are deemed to be in opposition to the Bureaus purpose
+
+Counsel Arcanum: The Counsel of nations whom may have members elected to chair positions and who agree to enact the will of the Bureau

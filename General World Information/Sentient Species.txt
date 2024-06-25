@@ -71,11 +71,11 @@ Humanoids: The diaspora of the Kuminids
 
 Orcoids: The diaspora of the Kashinites
 	Orcs:
-		Hurtzen:
+		Uru'kar:
 
-		Portok:
+		Uri'hen:
 
-		Kurtzeg:
+		Nur'eki:
 
 	Trolls:
 		Gif:
@@ -88,11 +88,11 @@ Orcoids: The diaspora of the Kashinites
 		Aftnord:
 	
 	Ogre:
-		Egerthun:
+		Sagnoids:
 
-		Jurgenbov:
+		Jurgennoids:
 
-		Hemfurt:
+		Hemnoids:
 
 Goblinoids: The diaspora of the Bur'Throminids
 	Goblins:
@@ -115,9 +115,27 @@ Goblinoids: The diaspora of the Bur'Throminids
 
 Draconoids: The diaspora of the Ophidinites
 	Kobolds:
+		Greenlings:
+
+		Redlings:
+
+		Graylings:
+
+		Bluelings:
 
 	Dragon Kin:
+		Far:
+
+		Harth:
+
+		Salim:
 
 	Reptilians:
+		Ocetuzl:
+
+		Humitza:
 
 	Wyrmlings:
+		Earth-born:
+
+		Sky-born:
